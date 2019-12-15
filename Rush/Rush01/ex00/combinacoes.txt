@@ -1,0 +1,66 @@
+### CATEGORIA - SOMA 5 ###
+
+COMBINAÇÕES  4 --- 1: 
+
+1234
+Total: 1
+
+COMBINAÇÕES 1 --- 4:
+
+4321
+Total: 1
+
+COMBINAÇÕES 2 --- 3:
+
+1432
+2431
+3421
+Total: 3
+
+COMBINAÇÕES 3 --- 2:
+
+1243
+1342
+2341
+Total: 3
+
+### CATEGORIA - SOMA 4 ###
+
+COMBINAÇÕES 3 --- 1:
+
+1324
+2134
+2314
+Total: 3
+
+COMBINAÇÕES 1 --- 3:
+
+4132
+4231
+4312
+Total: 3
+
+COMBINAÇÕES 2 --- 2:
+
+1423
+2143
+2413
+3142
+3241
+3412
+Total: 6
+
+### CATEGORIA - SOMA 3 ###
+
+COMBINAÇÕES 2 --- 1:
+
+3124
+3214
+Total: 2
+
+COMBINAÇÕES 1 --- 2
+
+4123
+4213
+Total: 2
+

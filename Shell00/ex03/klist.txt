@@ -1,0 +1,32 @@
+Credentials cache: API:1424560
+        Principal: lcouto@42SP.ORG.BR
+    Cache version: 0
+
+Server: krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Client: lcouto@42SP.ORG.BR
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 320
+Auth time:  Nov 19 08:00:09 2019
+End time:   Nov 19 18:00:11 2019
+Ticket flags: enc-pa-rep, pre-authent, initial, proxiable, forwardable
+Addresses: addressless
+
+Server: HTTP/student-storage.42sp.org.br@42SP.ORG.BR
+Client: lcouto@42SP.ORG.BR
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 2
+Ticket length: 356
+Auth time:  Nov 19 08:00:09 2019
+Start time: Nov 19 08:00:11 2019
+End time:   Nov 19 18:00:11 2019
+Ticket flags: enc-pa-rep, transited-policy-checked, pre-authent, proxiable, forwardable
+Addresses: addressless
+
+Server: host/vogsphere.42sp.org.br@42SP.ORG.BR
+Client: lcouto@42SP.ORG.BR
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 2
+Ticket length: 350
+Auth time:  Nov 19 08:00:09 2019
+Start time: Nov 19 08:10:11 2019
+End time:   Nov 19 18:00:11 2019
+Ticket flags: enc-pa-rep, transited-policy-checked, pre-authent, proxiable, forwardable
+Addresses: addressless

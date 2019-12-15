@@ -1,0 +1,27 @@
+função para tratar grupos de 3 recebidos de trata3
+{
+	if centena > 0
+		cont++
+		unidade hundred
+	if dezena > 1
+		cont++
+		dezena
+	else if dezena == 1
+		cont++
+		checar unidade
+			(eleven, twelve... nineteen)
+}
+função para tratar qual a posição do grupo de 3 recebido do trata3
+{
+	receber valor de conta3
+	conta3-1
+	fazer string 1 + ((conta3 -1)*3)
+				   ^		^
+			  concatenar|encher esse tamanho ai de 0
+	checar dicionario
+	retornar (thousand, million, billion...)
+}
+função para usar em alguns mallocs strlen
+{
+	strlen
+}
